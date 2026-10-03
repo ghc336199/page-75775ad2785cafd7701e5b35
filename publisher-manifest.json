@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "416b2e2f991c97ba171206dd",
+  "owner": "ghc336199",
+  "repo": "page-75775ad2785cafd7701e5b35",
+  "title": "水木云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "75775ad2785cafd7701e5b35",
+      "a": "水木云",
+      "b": "",
+      "entity": "水木云",
+      "brand": "水木云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0c25c110892eb56f49049af5c81bfdbaecde0caea9648d2bee7505774eef09b1",
+      "content": {
+        "keyword1": "水木云",
+        "keyword2": "",
+        "primary_entity": "水木云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "水木云提供机场订阅与VPN网络加速服务，涵盖套餐说明、多端客户端下载与完整配置流程，便于在官网完成加速器导入与节点使用。",
+          "AI_DESCRIPTION": "水木云提供机场订阅与VPN网络加速服务，涵盖套餐说明、多端客户端下载与完整配置流程，便于在官网完成加速器导入与节点使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65;color:#14281d;background:#f6f3eb;overflow-x:hidden}a{color:#1b4332}header{background:#1b4332;color:#f6f3eb;padding:12px 16px}header a{color:#d8f3dc}nav{display:flex;flex-wrap:wrap;gap:8px 14px} .wrap{max-width:900px;margin:0 auto;padding:16px}h1{font-size:1.8rem;line-height:1.3;margin:8px 0 10px;color:#1b4332}h2{font-size:1.32rem;margin:28px 0 12px;color:#1b4332;border-bottom:2px solid #95d5b2;padding-bottom:6px}h3{font-size:1.08rem;margin:16px 0 8px;color:#2d6a4f}.lead{margin:0 0 14px}.muted{color:#3d5c45}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.card{flex:1 1 250px;background:#fffcf5;border:1px solid #cfe3d4;border-radius:10px;padding:14px 16px}.card.featured{border:2px solid #1b4332}.price{font-size:1.22rem;font-weight:700;color:#1b4332}.annual{font-size:.9rem;color:#2d6a4f;margin:4px 0 8px}ul{margin:8px 0;padding-left:1.2em}.steps{list-style:none;padding:0;margin:0;counter-reset:s}.steps li{counter-increment:s;position:relative;padding:10px 12px 10px 48px;margin:0 0 8px;background:#fffcf5;border:1px solid #d8eadc;border-radius:8px}.steps li:before{content:counter(s);position:absolute;left:12px;top:10px;width:28px;height:28px;border-radius:50%;background:#1b4332;color:#f6f3eb;font-weight:700;text-align:center;line-height:28px;font-size:14px}details{background:#fffcf5;border:1px solid #cfe3d4;border-radius:8px;padding:10px 14px;margin:0 0 8px}summary{font-weight:600;color:#1b4332}details p{margin:8px 0 0}footer{background:#1b4332;color:#e8f5e9;padding:20px 16px;margin-top:24px;font-size:.9rem}footer a{color:#b7e4c7}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>水木云</h1><p class=\"lead\" id=\"intro\">水木云是面向个人与团队的机场订阅与 VPN 网络加速服务。通过多地区节点与标准订阅协议，帮助你稳定完成跨境访问、流媒体播放与游戏加速，并在官网集中查看套餐、配置流程与客户端下载说明。</p><p class=\"muted\">本页为水木云官方网站信息页，说明订阅方式、设备导入步骤与套餐差异，便于按流程完成加速器部署。</p><h2 id=\"scenes\">使用场景</h2><p>水木云适合需要持续、可管理流量的网络加速需求，而不是一次性临时跳转。常见场景包括远程协作、资料检索、影音解锁与低延迟游戏。</p><h3>跨境办公与学习</h3><p>访问海外文档、代码仓库、会议工具与学术数据库时，可按延迟与稳定性选择节点，减少超时与中断。</p><h3>流媒体与内容解锁</h3><p>基础版覆盖常用影音站点；旗舰版与团队版强调全节点原生解锁，降低地区限制带来的播放失败。</p><h3>游戏加速与多设备出行</h3><p>旗舰版含 IPLC 专线优化，适合对延迟敏感的对战与更新下载；多设备同时在线方便手机、电脑与平板切换。</p><h2 id=\"plans\">套餐与机场订阅</h2><p>按流量、设备数与线路等级选择。年付可降低月均成本。订阅后即可在客户端导入同一套机场链接，无需为每个设备单独开号。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"muted\">节点池覆盖港台、日韩、新加坡、美欧等方向；旗舰与团队更强调专线与高峰时段可用性。流量按自然月重置，超限后可升级套餐。</p><h2 id=\"guide\">配置流程与操作说明</h2><p>水木云的使用核心是「订阅一次、多端导入」。按下列顺序操作，可避免先下载后找不到链接、或导入错误配置文件的问题。</p><ol class=\"steps\"><li><strong>确认套餐与设备数量。</strong>先估算同时在线终端与月流量，个人日常浏览与轻量影音选基础版，游戏与全解锁选旗舰版，多成员共用选团队版。</li><li><strong>完成订阅并保存机场链接。</strong>在账户中复制订阅地址（Clash / V2Ray / SIP008 等通用格式）。链接等同凭证，不要发到公开群组。</li><li><strong>下载对应系统客户端。</strong>Windows 可用 Clash 兼容客户端或 v2rayN；macOS 可用 Clash 系；Android 可用 Clash Meta 系；iOS 使用支持订阅的规则客户端。详见下方客户端下载说明。</li><li><strong>导入订阅并更新节点。</strong>在客户端选择「从 URL 订阅 / 粘贴链接」，等待节点列表刷新。若为空，检查链接完整性与本地系统时间。</li><li><strong>选择节点并开启系统代理。</strong>网页浏览选低延迟综合节点，流媒体选解锁标注线路，游戏选 IPLC 或游戏优化线路。开启 TUN / 系统代理后，用目标站点验证连通。</li><li><strong>按场景微调规则。</strong>可将国内直连、国外代理写入分流，减少无关流量消耗。团队版可再叠加定制路由。</li></ol><h3>导入失败时的快速核对</h3><p>依次确认：订阅未过期、流量未耗尽、客户端内核版本不过旧、未开启冲突 VPN、防火墙未拦截本地核心进程。更换另一客户端用同一链接测试，可判断是软件问题还是订阅本身。</p><h2 id=\"download\">客户端下载与官网使用方式</h2><p>水木云通过标准机场订阅对接主流加速器，不绑定单一闭源壳程序。请在可信来源获取客户端安装包，再回到本页流程导入订阅。官方网站用于查看套餐、配置说明与更新公告，下载后仍以订阅链接为准。</p><h3>桌面端</h3><p>Windows：Clash 兼容客户端、v2rayN 等，适合规则分流与系统代理。macOS：Clash 系或支持订阅的图形客户端，注意授权网络扩展。Linux：命令行或 Clash 内核配合配置文件。</p><h3>移动端</h3><p>Android：Clash Meta 系客户端，可后台保活。iOS：使用支持 HTTPS 订阅的客户端，按商店规范自行获取应用后粘贴水木云订阅。平板计入设备在线数。</p><h3>建议</h3><p>同一账户下避免重复导入过期备份。更新订阅后再切换节点。游戏加速优先有线或稳定 Wi‑Fi，减少无线干扰被误判为线路问题。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">阅读常见问题</a></p><h2 id=\"faq\">常见问题</h2><details><summary>水木云是什么？和普通 VPN 有何不同？</summary><p>水木云是提供机场订阅的网络加速服务，节点与流量按套餐管理，可用 Clash、V2Ray 等客户端接入。相对单一 App 内置线路，订阅方式便于换端、分流和自选节点，更适合长期、多设备使用。</p></details><details><summary>如何完成从官网到连上节点的配置流程？</summary><p>先选择基础版、旗舰版或团队版并保存订阅链接，再下载系统对应客户端，在软件内粘贴 URL 更新节点，最后按场景选择普通、解锁或 IPLC 线路并打开系统代理。详细分步见本页「配置流程与操作说明」。</p></details><details><summary>客户端下载后找不到水木云节点怎么办？</summary><p>客户端本身是通用加速器，不会预置品牌节点。必须导入你的机场订阅链接才会出现列表。若列表为空，核对链接是否完整、账户是否有效、客户端是否支持该订阅格式，并可换一个客户端用同一链接验证。</p></details><details><summary>三个套餐该怎么选？流量和设备如何计算？</summary><p>同时 1–3 台、以浏览和基础影音为主选基础版（100GB / 3 设备）。需要原生解锁、游戏专线与优先工单选旗舰版（300GB / 5 设备）。多人共用、高带宽或定制路由选团队版（1000GB / 20 设备）。在线数按实际建立代理的终端累计，流量按月重置。</p></details><details><summary>能否解锁流媒体？游戏延迟如何？</summary><p>基础版支持基础流媒体解锁；旗舰版强调全节点原生解锁，团队版在此基础上提供 VIP 高带宽。游戏方面，旗舰版含 IPLC 专线优化，适合对延迟敏感的对局；实际体验仍受本地宽带与高峰拥塞影响，建议对比同区域多个节点。</p></details><details><summary>订阅链接安全吗？忘记配置步骤如何找回？</summary><p>订阅链接相当于访问凭证，泄露后他人可能占用流量。不要截图发到公开频道，更换设备后在账户内重新复制即可。本页配置流程与 FAQ 可随时对照，无需依赖额外脚本或表单。</p></details><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>水木云官网 · 机场订阅与 VPN 梯子网络加速说明</p><p><a href=\"#intro\">回到顶部</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#guide\">配置流程</a></p><p>请遵守当地法律法规与目标网站条款，仅将加速器用于正当访问。本页不提供评分或用户评论内容。</p></div></footer>",
+          "hash": "e8551e0f81e0ec77221d644ffc3a6fe0e9e81e1bbcf662bf910803bdf7b85664",
+          "seo": {
+            "title": "水木云官网 - 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "水木云,水木云VPN,水木云机场,水木云加速器,梯子,网络加速,客户端下载,官网下载,机场订阅",
+            "description": "水木云提供机场订阅与VPN网络加速服务，涵盖套餐说明、多端客户端下载与完整配置流程，便于在官网完成加速器导入与节点使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uniteoffice.cn",
+    "host": "p-5410479cda.uniteoffice.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fosdvwv.cn",
+      "url": "https://fosdvwv.cn/",
+      "label": "水木云",
+      "apex": "fosdvwv.cn",
+      "kind": null,
+      "identity": "fdhmjypmcdw/page-50c355f45564cb884f4c6360"
+    },
+    {
+      "host": "sqclnm.cn",
+      "url": "https://sqclnm.cn/",
+      "label": "水木云",
+      "apex": "sqclnm.cn",
+      "kind": null,
+      "identity": "shvyrwg/page-85e8aeb339fba5c5989e337e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "25c8198e91c1ebfd0942319e5697525c49d2facb882c485b96239044e4ccb6c4",
+    "sitemap.xml": "92f44136d20e5f97356ed5f5ba1134a0cf00680764f97a65c5e764cd1187515f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b1626f063f4fa7752810663a7f8a9e56714276da3c84a8a8d5c26b156f6fbb3",
+    "robots.txt": "0a0dff6fa1dd2d2e31647175cc739d2ac9eff224f8295b46cd0b566e60103ba4",
+    "9b6e6d4ead1a50fdeebea9d39a52b008.txt": "51260a6633c78b2aa8c56c8cc88a226d3bf8836e73c0d6949bdec5d43d4aa76d"
+  },
+  "revision": "962f3f6ead4d51b99b91f77ab22d305c5fcf45a375df6796dfae03ca460c7e58"
+}
